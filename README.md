@@ -1,7 +1,7 @@
 # TP1 : Maquette fil de fer
 
 Énoncé : cours 3 \
-Remise : cours 7 \
+Remise : cours 8 \
 Pondération : 20%
 
 Les trois travaux pratiques (TP) pour ce cours s'organisent autour d'un projet Web sur lequel vous travaillerez au fil de la session. Le but est de simuler des conditions réelles de production tout en me permettant d'évaluer votre maîtrise des compétences requises à chaque étape du design et de la création d'une interface Web.
