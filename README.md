@@ -12,14 +12,11 @@ La première étape de ce processus de production, une fois le cahier des charge
 
 ### Étape 1
 
-En vous inspirant des informations recueillies dans le [cahier des charges][], et du format vu lors de l'exercice [Recherche][], identifier dans un fichier FigJam le ou les objectifs du site Web que vous allez concevoir, ses utilisateur·rices, et les dangers que l'interface doit éviter.
-
-[cahier des charges]: https://github.com/582-21W-MA/exercices/tree/main/01_cahier-des-charges
-[Recherche]: https://github.com/582-21W-MA/exercices/tree/main/02_recherche
+En vous inspirant des informations recueillies dans le [cahier des charges](https://github.com/582-21W-MA/exercices/tree/main/01_cahier-des-charges), et du format vu lors de l'exercice [Recherche](https://github.com/582-21W-MA/exercices/tree/main/02_recherche), identifier dans un fichier FigJam le ou les objectifs du site Web que vous allez concevoir, ses utilisateur·rices, et les dangers que l'interface doit éviter.
 
 ### Étape 2
 
-Toujours en s'inspirant du format vu lors de l'exercice [Recherche][], tracez le ou les parcours de votre site Web. Il n'est pas nécessaire de lister tous les parcours ; concentrez-vous sur ceux en lien avec le ou les objectifs définis ci-haut.
+Toujours en s'inspirant du format vu lors de l'exercice [Recherche](https://github.com/582-21W-MA/exercices/tree/main/02_recherche), tracez le ou les parcours de votre site Web. Il n'est pas nécessaire de lister tous les parcours ; concentrez-vous sur ceux en lien avec le ou les objectifs définis ci-haut.
 
 ### Étape 3
 
@@ -29,11 +26,11 @@ Dans le même fichier FigJam, concevez une maquette fil de fer qui détaille la 
 
 Une fois le premier jet de votre maquette complété, proposez 3 changements *importants* à l'interface. Ce peut être l'arrangement des informations à l'intérieur d'une carte « produit », la taille et l'ordre des différents élément d'un article, l'importance accordée à la description des projets d'un portfolio, etc. 
 
-Pour chacun des changements proposés, écrivez un court texte (100–200 mots) qui explique son impact sur l'expérience utilisateur. Référez-vous aux objectifs du site Web, au profil des utilisateur·rices, et aux dangers identifiés ci-haut. Assurez-vous également de justifier votre explication en citant soit les lectures et/ou les vidéos discutées en classe, soit la recherche effectuée lors de l'exercice [Recherche][].
+Pour chacun des changements proposés, écrivez un court texte (100–200 mots) qui explique son impact sur l'expérience utilisateur. Référez-vous aux objectifs du site Web, au profil des utilisateur·rices, et aux dangers identifiés ci-haut. Assurez-vous également de justifier votre explication en citant soit les lectures et/ou les vidéos discutées en classe, soit la recherche effectuée lors de l'exercice [Recherche](https://github.com/582-21W-MA/exercices/tree/main/02_recherche).
 
 ## Remise
 
-Seulement un document FigJam contenant tous les éléments listés ci-haut doit être remis sur Léa.
+Seulement un document FigJam (`.fig`) contenant tous les éléments listés ci-haut doit être remis sur Léa. Pour sauvegarder une copie de votre maquette, cliquez sur `Main menu → File → Save local copy…`.
 
 ## Rubrique d'évaluation
 
@@ -45,15 +42,10 @@ Seulement un document FigJam contenant tous les éléments listés ci-haut doit 
 - Trois changements importants sont proposés.
 - Chacun des changements est expliqué.
 
-### Qualité des maquettes `5`
+### Qualité des maquettes `15`
 
 - La maquette est réalisée avec soins.
 - La maquette adresse les objectifs et les utilisateur·rices identifiés, et tient compte des dangers que l'interface doit éviter.
 - Le niveau de fidélité des maquettes est suffisamment bas pour permettre une itération rapide.
-
-### Profondeur de la réflexion `10`
-
 - Les changements proposés sont pertinents en vue des objectifs, des utilisateur·rices, et des dangers identifiés.
-- Le raisonnement derrière les changements proposés est .
-- 
-- Le raisonnement derrière les choix est justifié en se référant au cahier des charges, aux bonnes pratiques de l'expérience utilisateur·rice, aux fonctionnalités mises de l'avant, au parcours des utilisateur·rices, etc.
+- Le raisonnement derrière les changements proposés est bien fondé.
