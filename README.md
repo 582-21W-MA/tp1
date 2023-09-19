@@ -30,7 +30,7 @@ Pour chacun des changements proposés, écrivez un court texte (100–200 mots) 
 
 ## Remise
 
-Seulement un document FigJam (`.fig`) contenant tous les éléments listés ci-haut doit être remis sur Léa. Pour sauvegarder une copie de votre maquette, cliquez sur `Main menu → File → Save local copy…`.
+Seulement un document FigJam (`.jam`) contenant tous les éléments listés ci-haut doit être remis sur Léa. Pour sauvegarder une copie de votre maquette, cliquez sur `Main menu → File → Save local copy…`.
 
 ## Rubrique d'évaluation
 
